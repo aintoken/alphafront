@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+/*	  body {
+	  background-image:url(' ../../background_main.png');
+
+	}
+.page {    background-color: rgba(241, 244, 245, 0.4) !important;}
+.site-menubar {   }
+.card {    background-color: rgba(255, 255, 255, 0.8) !important;}*/
+.onlinestatus { margin-left: 15px;}
+.online {color: #00FF00;}
+.customcardbody {padding: 15px !important; background-color: #F9F9F9;}
+.customcardbody .card-title {font-size: 1.1em !important;}
+.card-footer.custom { background-color: #E02C8F !important; text-align: center;}
+.card-footer.custom a {padding: 0px 10px 0px 10px; color: #FFFFFF;}
+.locationdiv {padding-top: 4px;}
+.location { font-size: .9em;}
+.locationmarker {margin:0px 5px 0px 5px; color: #E02C8F; }
+.locationnumber { font-size: .9em;}
+.picamount {position: absolute; padding: 5px;}
+.picamount2 {position: absolute; left: 85%; padding: 5px;}
+.picamount span {font-size: 11px; margin-left: 5px; color: #E02C8F;}
+.providerstars {padding: 5px 0px 0px 0px;}
+.checked {color: #E02C8F;}
+.unchecked {color: #E5E2E2;}
+.inactive {    opacity: 0.4;  pointer-events: none; cursor: default;}
+
+
